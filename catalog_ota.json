@@ -1,0 +1,3096 @@
+{
+  "version": 5,
+  "inventory": {
+    "blades": [
+      {
+        "name": "Aero Pegasus"
+      },
+      {
+        "name": "Bear Scratch"
+      },
+      {
+        "name": "Bison Valor"
+      },
+      {
+        "name": "Black Shell"
+      },
+      {
+        "name": "Bullet Griffon"
+      },
+      {
+        "name": "Bumblebee"
+      },
+      {
+        "name": "Captain America"
+      },
+      {
+        "name": "Chewbacca"
+      },
+      {
+        "name": "Clock Mirage"
+      },
+      {
+        "name": "Cobalt Dragoon"
+      },
+      {
+        "name": "Cobalt Drake"
+      },
+      {
+        "name": "Crimson Garuda"
+      },
+      {
+        "name": "Croc Crunch"
+      },
+      {
+        "name": "Darth Vader"
+      },
+      {
+        "name": "Doctor Doom"
+      },
+      {
+        "name": "Draciel Shield"
+      },
+      {
+        "name": "Dragoon Storm"
+      },
+      {
+        "name": "Dran Buster"
+      },
+      {
+        "name": "Dran Dagger"
+      },
+      {
+        "name": "Dran Strike"
+      },
+      {
+        "name": "Dran Sword"
+      },
+      {
+        "name": "Dranzer Spiral"
+      },
+      {
+        "name": "Driger Slash"
+      },
+      {
+        "name": "General Grievous"
+      },
+      {
+        "name": "Ghost Circle"
+      },
+      {
+        "name": "Glory Valkyrie"
+      },
+      {
+        "name": "Goat Tackle"
+      },
+      {
+        "name": "Golem Rock"
+      },
+      {
+        "name": "Green Goblin"
+      },
+      {
+        "name": "Grogu"
+      },
+      {
+        "name": "Hack Viking"
+      },
+      {
+        "name": "Heavens Ring"
+      },
+      {
+        "name": "Hells Chain"
+      },
+      {
+        "name": "Hells Hammer"
+      },
+      {
+        "name": "Hells Nether"
+      },
+      {
+        "name": "Hells Scythe"
+      },
+      {
+        "name": "Hulk"
+      },
+      {
+        "name": "Impact Drake"
+      },
+      {
+        "name": "Iron Man"
+      },
+      {
+        "name": "Knight Lance"
+      },
+      {
+        "name": "Knight Mail"
+      },
+      {
+        "name": "Knight Shield"
+      },
+      {
+        "name": "Kong Yell"
+      },
+      {
+        "name": "Leon Claw"
+      },
+      {
+        "name": "Leon Crest"
+      },
+      {
+        "name": "Lightning L-Drago (Rapid-Hit Type)"
+      },
+      {
+        "name": "Lightning L-Drago (Upper Type)"
+      },
+      {
+        "name": "Luke Skywalker"
+      },
+      {
+        "name": "Luster Dragoon"
+      },
+      {
+        "name": "Mammoth Tusk"
+      },
+      {
+        "name": "Megatron"
+      },
+      {
+        "name": "Meteor Dragoon"
+      },
+      {
+        "name": "Miles Morales"
+      },
+      {
+        "name": "Mister Fantastic"
+      },
+      {
+        "name": "Moff Gideon"
+      },
+      {
+        "name": "Mosasaurus"
+      },
+      {
+        "name": "Mummy Curse"
+      },
+      {
+        "name": "Obi-Wan Kenobi"
+      },
+      {
+        "name": "Optimus Primal"
+      },
+      {
+        "name": "Optimus Prime"
+      },
+      {
+        "name": "Orochi Cluster"
+      },
+      {
+        "name": "Phoenix Feather"
+      },
+      {
+        "name": "Phoenix Rudder"
+      },
+      {
+        "name": "Phoenix Wing"
+      },
+      {
+        "name": "Ptera Swing"
+      },
+      {
+        "name": "Quetzalcoatlus"
+      },
+      {
+        "name": "Red Hulk"
+      },
+      {
+        "name": "Rhino Horn"
+      },
+      {
+        "name": "Rock Leone"
+      },
+      {
+        "name": "Samurai Calibur"
+      },
+      {
+        "name": "Samurai Saber"
+      },
+      {
+        "name": "Samurai Steel"
+      },
+      {
+        "name": "Scorpio Spear"
+      },
+      {
+        "name": "Shark Edge"
+      },
+      {
+        "name": "Shark Gill"
+      },
+      {
+        "name": "Shark Scale"
+      },
+      {
+        "name": "Shelter Drake"
+      },
+      {
+        "name": "Shinobi Knife"
+      },
+      {
+        "name": "Shinobi Shadow"
+      },
+      {
+        "name": "Shockwave"
+      },
+      {
+        "name": "Silver Wolf"
+      },
+      {
+        "name": "Snowtrooper"
+      },
+      {
+        "name": "Sphinx Cowl"
+      },
+      {
+        "name": "Spider-Man"
+      },
+      {
+        "name": "Spinosaurus"
+      },
+      {
+        "name": "Starscream"
+      },
+      {
+        "name": "Storm Pegasis"
+      },
+      {
+        "name": "Storm Spriggan"
+      },
+      {
+        "name": "Stormtrooper"
+      },
+      {
+        "name": "Stun Medusa"
+      },
+      {
+        "name": "T. Rex"
+      },
+      {
+        "name": "Thanos"
+      },
+      {
+        "name": "The Mandalorian"
+      },
+      {
+        "name": "Tricera Press"
+      },
+      {
+        "name": "Tricera Spiky"
+      },
+      {
+        "name": "Tyranno Beat"
+      },
+      {
+        "name": "Tyranno Roar"
+      },
+      {
+        "name": "Unicorn Sting"
+      },
+      {
+        "name": "Valkyrie Volt"
+      },
+      {
+        "name": "Venom"
+      },
+      {
+        "name": "Victory Valkyrie"
+      },
+      {
+        "name": "Viper Tail"
+      },
+      {
+        "name": "Weiss Tiger"
+      },
+      {
+        "name": "Whale Wave"
+      },
+      {
+        "name": "Wizard Arrow"
+      },
+      {
+        "name": "Wizard Rod"
+      },
+      {
+        "name": "Wyvern Gale"
+      },
+      {
+        "name": "Wyvern Hover"
+      },
+      {
+        "name": "Xeno Xcalibur"
+      }
+    ],
+    "main_blades": [
+      {
+        "name": "Antler"
+      },
+      {
+        "name": "Arc"
+      },
+      {
+        "name": "Blast"
+      },
+      {
+        "name": "Brave"
+      },
+      {
+        "name": "Brush"
+      },
+      {
+        "name": "Dark"
+      },
+      {
+        "name": "Eclipse"
+      },
+      {
+        "name": "Fang"
+      },
+      {
+        "name": "Flame"
+      },
+      {
+        "name": "Flare"
+      },
+      {
+        "name": "Fort"
+      },
+      {
+        "name": "Hunt"
+      },
+      {
+        "name": "Might"
+      },
+      {
+        "name": "Reaper"
+      },
+      {
+        "name": "Volt"
+      },
+      {
+        "name": "Wriggle"
+      }
+    ],
+    "ratchets": [
+      {
+        "name": "0-60"
+      },
+      {
+        "name": "0-70"
+      },
+      {
+        "name": "0-80"
+      },
+      {
+        "name": "1-50"
+      },
+      {
+        "name": "1-60"
+      },
+      {
+        "name": "1-70"
+      },
+      {
+        "name": "1-80"
+      },
+      {
+        "name": "2-60"
+      },
+      {
+        "name": "2-70"
+      },
+      {
+        "name": "2-80"
+      },
+      {
+        "name": "3-60"
+      },
+      {
+        "name": "3-70"
+      },
+      {
+        "name": "3-80"
+      },
+      {
+        "name": "3-85"
+      },
+      {
+        "name": "4-50"
+      },
+      {
+        "name": "4-55"
+      },
+      {
+        "name": "4-60"
+      },
+      {
+        "name": "4-70"
+      },
+      {
+        "name": "4-80"
+      },
+      {
+        "name": "5-50"
+      },
+      {
+        "name": "5-60"
+      },
+      {
+        "name": "5-70"
+      },
+      {
+        "name": "5-80"
+      },
+      {
+        "name": "6-60"
+      },
+      {
+        "name": "6-70"
+      },
+      {
+        "name": "6-80"
+      },
+      {
+        "name": "7-55"
+      },
+      {
+        "name": "7-60"
+      },
+      {
+        "name": "7-70"
+      },
+      {
+        "name": "7-80"
+      },
+      {
+        "name": "8-70"
+      },
+      {
+        "name": "8-80"
+      },
+      {
+        "name": "9-60"
+      },
+      {
+        "name": "9-65"
+      },
+      {
+        "name": "9-70"
+      },
+      {
+        "name": "9-80"
+      },
+      {
+        "name": "M-85"
+      },
+      {
+        "name": "Operate (O)"
+      },
+      {
+        "name": "Turbo (T)"
+      }
+    ],
+    "bits": [
+      {
+        "name": "Accel"
+      },
+      {
+        "name": "Ball"
+      },
+      {
+        "name": "Bound Spike"
+      },
+      {
+        "name": "Cyclone"
+      },
+      {
+        "name": "Disc Ball"
+      },
+      {
+        "name": "Disk Spike"
+      },
+      {
+        "name": "Dot"
+      },
+      {
+        "name": "Elevate"
+      },
+      {
+        "name": "Flat"
+      },
+      {
+        "name": "Free Ball"
+      },
+      {
+        "name": "Free Flat"
+      },
+      {
+        "name": "Gear Ball"
+      },
+      {
+        "name": "Gear Flat"
+      },
+      {
+        "name": "Gear Needle"
+      },
+      {
+        "name": "Gear Point"
+      },
+      {
+        "name": "Gear Rush"
+      },
+      {
+        "name": "Gear Unite"
+      },
+      {
+        "name": "Glide"
+      },
+      {
+        "name": "Hexa"
+      },
+      {
+        "name": "High Needle"
+      },
+      {
+        "name": "High Taper"
+      },
+      {
+        "name": "Ignition"
+      },
+      {
+        "name": "Jolt"
+      },
+      {
+        "name": "Kick"
+      },
+      {
+        "name": "Level"
+      },
+      {
+        "name": "Low Cyclone"
+      },
+      {
+        "name": "Low Flat"
+      },
+      {
+        "name": "Low Orb"
+      },
+      {
+        "name": "Low Point"
+      },
+      {
+        "name": "Low Rush"
+      },
+      {
+        "name": "Merge"
+      },
+      {
+        "name": "Metal Needle"
+      },
+      {
+        "name": "Narrow"
+      },
+      {
+        "name": "Needle"
+      },
+      {
+        "name": "Orb"
+      },
+      {
+        "name": "Point"
+      },
+      {
+        "name": "Quake"
+      },
+      {
+        "name": "Rubber Accel"
+      },
+      {
+        "name": "Rush"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "Taper"
+      },
+      {
+        "name": "Trans Kick"
+      },
+      {
+        "name": "Trans Point"
+      },
+      {
+        "name": "Under Flat"
+      },
+      {
+        "name": "Under Needle"
+      },
+      {
+        "name": "Unite"
+      },
+      {
+        "name": "Vortex"
+      },
+      {
+        "name": "Wall Ball"
+      },
+      {
+        "name": "Wall Wedge"
+      },
+      {
+        "name": "Wedge"
+      },
+      {
+        "name": "Yielding"
+      },
+      {
+        "name": "Zap"
+      }
+    ],
+    "assist_blades": [
+      {
+        "name": "Assault"
+      },
+      {
+        "name": "Bumper"
+      },
+      {
+        "name": "Charge"
+      },
+      {
+        "name": "Dual"
+      },
+      {
+        "name": "Erase"
+      },
+      {
+        "name": "Free"
+      },
+      {
+        "name": "Gravity"
+      },
+      {
+        "name": "Heavy"
+      },
+      {
+        "name": "Jaggy"
+      },
+      {
+        "name": "Knuckle"
+      },
+      {
+        "name": "Massive"
+      },
+      {
+        "name": "Odd"
+      },
+      {
+        "name": "Quell"
+      },
+      {
+        "name": "Round"
+      },
+      {
+        "name": "Slash"
+      },
+      {
+        "name": "Turn"
+      },
+      {
+        "name": "Vertical"
+      },
+      {
+        "name": "Wheel"
+      },
+      {
+        "name": "Zillion"
+      }
+    ],
+    "lock_chips": [
+      {
+        "name": "Bahamut"
+      },
+      {
+        "name": "Brachio"
+      },
+      {
+        "name": "Cerberus"
+      },
+      {
+        "name": "Croco"
+      },
+      {
+        "name": "Drake"
+      },
+      {
+        "name": "Dran"
+      },
+      {
+        "name": "Emperor"
+      },
+      {
+        "name": "Eva"
+      },
+      {
+        "name": "Fox"
+      },
+      {
+        "name": "Hells"
+      },
+      {
+        "name": "Hornet"
+      },
+      {
+        "name": "Knight"
+      },
+      {
+        "name": "Kraken"
+      },
+      {
+        "name": "Leon"
+      },
+      {
+        "name": "Pegasus"
+      },
+      {
+        "name": "Perseus"
+      },
+      {
+        "name": "Phoenix"
+      },
+      {
+        "name": "Ragna"
+      },
+      {
+        "name": "Rhino"
+      },
+      {
+        "name": "Sol"
+      },
+      {
+        "name": "Stag"
+      },
+      {
+        "name": "Tiga"
+      },
+      {
+        "name": "Unicorn"
+      },
+      {
+        "name": "Valkyrie"
+      },
+      {
+        "name": "Whale"
+      },
+      {
+        "name": "Wizard"
+      },
+      {
+        "name": "Wolf"
+      }
+    ],
+    "version": 5
+  },
+  "stats": {
+    "blades": {
+      "Aero Pegasus": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 35,
+        "image": "assets/images/blades/aero_pegasus.webp",
+        "weight": 38.7
+      },
+      "Bear Scratch": {
+        "type": "Attack",
+        "attack": 25,
+        "defense": 45,
+        "stamina": 30,
+        "image": "assets/images/blades/bear_scratch.webp",
+        "weight": 29.6
+      },
+      "Black Shell": {
+        "type": "Defense",
+        "attack": 10,
+        "defense": 65,
+        "stamina": 25,
+        "image": "assets/images/blades/black_shell.webp",
+        "weight": 32.4
+      },
+      "Clock Mirage": {
+        "type": "Stamina",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 80,
+        "image": "assets/images/blades/clock_mirage.webp",
+        "weight": 37.7
+      },
+      "Cobalt Dragoon": {
+        "type": "Attack",
+        "attack": 60,
+        "defense": 15,
+        "stamina": 25,
+        "image": "assets/images/blades/cobalt_dragoon.webp",
+        "weight": 37.8
+      },
+      "Cobalt Drake": {
+        "type": "Attack",
+        "attack": 70,
+        "defense": 35,
+        "stamina": 25,
+        "image": "assets/images/blades/cobalt_drake.webp",
+        "weight": 37.3
+      },
+      "Crimson Garuda": {
+        "type": "Stamina",
+        "attack": 45,
+        "defense": 25,
+        "stamina": 30,
+        "image": "assets/images/blades/crimson_garuda.webp",
+        "weight": 35.0
+      },
+      "Croc Crunch": {
+        "type": "Attack",
+        "attack": 60,
+        "defense": 22,
+        "stamina": 18,
+        "image": "assets/images/blades/croc_crunch.webp",
+        "weight": 34.0
+      },
+      "Dran Buster": {
+        "type": "Attack",
+        "attack": 70,
+        "defense": 20,
+        "stamina": 10,
+        "image": "assets/images/blades/dran_buster.webp",
+        "weight": 36.5
+      },
+      "Dran Dagger": {
+        "type": "Attack",
+        "attack": 50,
+        "defense": 25,
+        "stamina": 25,
+        "image": "assets/images/blades/dran_dagger.webp",
+        "weight": 36.0
+      },
+      "Dran Sword": {
+        "type": "Attack",
+        "attack": 55,
+        "defense": 25,
+        "stamina": 20,
+        "image": "assets/images/blades/dran_sword.webp",
+        "weight": 35.1
+      },
+      "Ghost Circle": {
+        "type": "Stamina",
+        "attack": 5,
+        "defense": 40,
+        "stamina": 55,
+        "image": "assets/images/blades/ghost_circle.webp",
+        "weight": 26.7
+      },
+      "Goat Tackle": {
+        "type": "Balance",
+        "attack": 13,
+        "defense": 65,
+        "stamina": 22,
+        "image": "assets/images/blades/goat_tackle.webp",
+        "weight": 31.5
+      },
+      "Golem Rock": {
+        "type": "Defense",
+        "attack": 30,
+        "defense": 60,
+        "stamina": 10,
+        "image": "assets/images/blades/golem_rock.webp",
+        "weight": 34.0
+      },
+      "Hells Chain": {
+        "type": "Balance",
+        "attack": 35,
+        "defense": 40,
+        "stamina": 25,
+        "image": "assets/images/blades/hells_chain.webp",
+        "weight": 33.2
+      },
+      "Hells Hammer": {
+        "type": "Balance",
+        "attack": 50,
+        "defense": 25,
+        "stamina": 25,
+        "image": "assets/images/blades/hells_hammer.webp",
+        "weight": 33.0
+      },
+      "Hells Scythe": {
+        "type": "Attack",
+        "attack": 30,
+        "defense": 35,
+        "stamina": 35,
+        "image": "assets/images/blades/hells_scythe.webp",
+        "weight": 33.7
+      },
+      "Impact Drake": {
+        "type": "Attack",
+        "attack": 75,
+        "defense": 25,
+        "stamina": 10,
+        "image": "assets/images/blades/impact_drake.webp",
+        "weight": 39.0
+      },
+      "Knight Lance": {
+        "type": "Defense",
+        "attack": 25,
+        "defense": 60,
+        "stamina": 15,
+        "image": "assets/images/blades/knight_lance.webp",
+        "weight": 32.9
+      },
+      "Knight Mail": {
+        "type": "Defense",
+        "attack": 10,
+        "defense": 65,
+        "stamina": 35,
+        "image": "assets/images/blades/knight_mail.webp",
+        "weight": 36.7
+      },
+      "Knight Shield": {
+        "type": "Defense",
+        "attack": 20,
+        "defense": 55,
+        "stamina": 25,
+        "image": "assets/images/blades/knight_shield.webp",
+        "weight": 34.8
+      },
+      "Leon Claw": {
+        "type": "Balance",
+        "attack": 40,
+        "defense": 40,
+        "stamina": 20,
+        "image": "assets/images/blades/leon_claw.webp",
+        "weight": 31.4
+      },
+      "Leon Crest": {
+        "type": "Defense",
+        "attack": 15,
+        "defense": 70,
+        "stamina": 15,
+        "image": "assets/images/blades/leon_crest.webp",
+        "weight": 35.0
+      },
+      "Mammoth Tusk": {
+        "type": "Balance",
+        "attack": 38,
+        "defense": 40,
+        "stamina": 37,
+        "image": "assets/images/blades/mammoth_tusk.webp",
+        "weight": 33.3
+      },
+      "Orochi Cluster": {
+        "type": "Attack",
+        "attack": 50,
+        "defense": 25,
+        "stamina": 25,
+        "image": "assets/images/blades/orochi_cluster.webp",
+        "weight": 36.6
+      },
+      "Phoenix Wing": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 20,
+        "image": "assets/images/blades/phoenix_wing.webp",
+        "weight": 39.0
+      },
+      "Ptera Swing": {
+        "type": "Stamina",
+        "attack": 27,
+        "defense": 23,
+        "stamina": 50,
+        "image": "assets/images/blades/ptera_swing.webp",
+        "weight": 34.3
+      },
+      "Rhino Horn": {
+        "type": "Defense",
+        "attack": 20,
+        "defense": 50,
+        "stamina": 30,
+        "image": "assets/images/blades/rhino_horn.webp",
+        "weight": 32.7
+      },
+      "Samurai Calibur": {
+        "type": "Balance",
+        "attack": 40,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/samurai_calibur.webp",
+        "weight": 36.0
+      },
+      "Samurai Saber": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 20,
+        "stamina": 25,
+        "image": "assets/images/blades/samurai_saber.webp",
+        "weight": 36.5
+      },
+      "Samurai Steel": {
+        "type": "Attack",
+        "attack": 40,
+        "defense": 37,
+        "stamina": 23,
+        "image": "assets/images/blades/samurai_steel.webp",
+        "weight": 31.2
+      },
+      "Shark Edge": {
+        "type": "Attack",
+        "attack": 60,
+        "defense": 25,
+        "stamina": 15,
+        "image": "assets/images/blades/shark_edge.webp",
+        "weight": 34.5
+      },
+      "Shark Gill": {
+        "type": "Stamina",
+        "attack": 20,
+        "defense": 25,
+        "stamina": 55,
+        "image": "assets/images/blades/shark_gill.webp",
+        "weight": 29.6
+      },
+      "Shelter Drake": {
+        "type": "Balance",
+        "attack": 25,
+        "defense": 40,
+        "stamina": 35,
+        "image": "assets/images/blades/shelter_drake.webp",
+        "weight": 32.6
+      },
+      "Shinobi Knife": {
+        "type": "Attack",
+        "attack": 23,
+        "defense": 50,
+        "stamina": 27,
+        "image": "assets/images/blades/shinobi_knife.webp",
+        "weight": 28.2
+      },
+      "Shinobi Shadow": {
+        "type": "Defense",
+        "attack": 10,
+        "defense": 70,
+        "stamina": 20,
+        "image": "assets/images/blades/shinobi_shadow.webp",
+        "weight": 28.2
+      },
+      "Silver Wolf": {
+        "type": "Stamina",
+        "attack": 15,
+        "defense": 30,
+        "stamina": 65,
+        "image": "assets/images/blades/silver_wolf.webp",
+        "weight": 36.8
+      },
+      "Sphinx Cowl": {
+        "type": "Defense",
+        "attack": 35,
+        "defense": 55,
+        "stamina": 10,
+        "image": "assets/images/blades/sphinx_cowl.webp",
+        "weight": 32.7
+      },
+      "Tricera Press": {
+        "type": "Defense",
+        "attack": 20,
+        "defense": 65,
+        "stamina": 15,
+        "image": "assets/images/blades/tricera_press.webp",
+        "weight": 36.5
+      },
+      "Tyranno Beat": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 5,
+        "image": "assets/images/blades/tyranno_beat.webp",
+        "weight": 37.0
+      },
+      "Tyranno Roar": {
+        "type": "Attack",
+        "attack": 60,
+        "defense": 28,
+        "stamina": 12,
+        "image": "assets/images/blades/tyranno_roar.webp",
+        "weight": 36.0
+      },
+      "Unicorn Sting": {
+        "type": "Balance",
+        "attack": 35,
+        "defense": 35,
+        "stamina": 30,
+        "image": "assets/images/blades/unicorn_sting.webp",
+        "weight": 34.0
+      },
+      "Viper Tail": {
+        "type": "Stamina",
+        "attack": 30,
+        "defense": 20,
+        "stamina": 50,
+        "image": "assets/images/blades/viper_tail.webp",
+        "weight": 34.7
+      },
+      "Weiss Tiger": {
+        "type": "Balance",
+        "attack": 45,
+        "defense": 30,
+        "stamina": 25,
+        "image": "assets/images/blades/weiss_tiger.webp",
+        "weight": 34.6
+      },
+      "Whale Wave": {
+        "type": "Balance",
+        "attack": 45,
+        "defense": 35,
+        "stamina": 20,
+        "image": "assets/images/blades/whale_wave.webp",
+        "weight": 38.2
+      },
+      "Wizard Arrow": {
+        "type": "Stamina",
+        "attack": 15,
+        "defense": 30,
+        "stamina": 55,
+        "image": "assets/images/blades/wizard_arrow.webp",
+        "weight": 31.8
+      },
+      "Wizard Rod": {
+        "type": "Stamina",
+        "attack": 15,
+        "defense": 25,
+        "stamina": 56,
+        "image": "assets/images/blades/wizard_rod.webp",
+        "weight": 35.5
+      },
+      "Wyvern Gale": {
+        "type": "Stamina",
+        "attack": 10,
+        "defense": 40,
+        "stamina": 50,
+        "image": "assets/images/blades/wyvern_gale.webp",
+        "weight": 31.9
+      },
+      "Wyvern Hover": {
+        "type": "Defense",
+        "attack": 13,
+        "defense": 60,
+        "stamina": 27,
+        "image": "assets/images/blades/wyvern_hover.webp",
+        "weight": 35.1
+      },
+      "Valkyrie Volt": {
+        "type": "Attack",
+        "attack": 45,
+        "defense": 15,
+        "stamina": 15,
+        "image": "assets/images/blades/valkyrie_volt.webp",
+        "weight": 33.2
+      },
+      "Stun Medusa": {
+        "type": "Stamina",
+        "attack": 38,
+        "defense": 31,
+        "stamina": 31,
+        "image": "assets/images/blades/stun_medusa.webp",
+        "weight": 27.4
+      },
+      "Moff Gideon": {
+        "type": "Defense",
+        "attack": 39,
+        "defense": 31,
+        "stamina": 31,
+        "image": "assets/images/blades/moff_gideon.webp",
+        "weight": 30.5
+      },
+      "Venom": {
+        "type": "Defense",
+        "attack": 39,
+        "defense": 30,
+        "stamina": 31,
+        "image": "assets/images/blades/venom.webp",
+        "weight": 34.3
+      },
+      "Darth Vader": {
+        "type": "Balance",
+        "attack": 39,
+        "defense": 32,
+        "stamina": 30,
+        "image": "assets/images/blades/darth_vader.webp",
+        "weight": 30.7
+      },
+      "Megatron": {
+        "type": "Stamina",
+        "attack": 38,
+        "defense": 30,
+        "stamina": 32,
+        "image": "assets/images/blades/megatron.webp",
+        "weight": 31.1
+      },
+      "Starscream": {
+        "type": "Balance",
+        "attack": 38,
+        "defense": 30,
+        "stamina": 32,
+        "image": "assets/images/blades/starscream.webp",
+        "weight": 29.5
+      },
+      "Mosasaurus": {
+        "type": "Balance",
+        "attack": 39,
+        "defense": 31,
+        "stamina": 30,
+        "image": "assets/images/blades/mosasaurus.webp",
+        "weight": 29.9
+      },
+      "Quetzalcoatlus": {
+        "type": "Balance",
+        "attack": 38,
+        "defense": 30,
+        "stamina": 31,
+        "image": "assets/images/blades/quetzalcoatlus.webp",
+        "weight": 34.3
+      },
+      "Hack Viking": {
+        "type": "Balance",
+        "attack": 40,
+        "defense": 40,
+        "stamina": 20,
+        "image": "assets/images/blades/leon_claw.webp",
+        "weight": 32.7
+      },
+      "Draciel Shield": {
+        "type": "Defense",
+        "attack": 38,
+        "defense": 32,
+        "stamina": 30,
+        "image": "assets/images/blades/draciel_shield.webp",
+        "weight": 28.0
+      },
+      "Iron Man": {
+        "type": "Stamina",
+        "attack": 38,
+        "defense": 31,
+        "stamina": 31,
+        "image": "assets/images/blades/iron_man.webp",
+        "weight": 33.6
+      },
+      "Spider-Man": {
+        "type": "Attack",
+        "attack": 39,
+        "defense": 30,
+        "stamina": 31,
+        "image": "assets/images/blades/spider-man.webp",
+        "weight": 33.2
+      },
+      "Luke Skywalker": {
+        "type": "Stamina",
+        "attack": 38,
+        "defense": 31,
+        "stamina": 31,
+        "image": "assets/images/blades/luke_skywalker.webp",
+        "weight": 31.5
+      },
+      "The Mandalorian": {
+        "type": "Attack",
+        "attack": 40,
+        "defense": 31,
+        "stamina": 30,
+        "image": "assets/images/blades/the_mandalorian.webp",
+        "weight": 30.3
+      },
+      "Chewbacca": {
+        "type": "Stamina",
+        "weight": 35,
+        "attack": 22,
+        "defense": 23,
+        "stamina": 55,
+        "image": "assets/images/blades/chewbacca.png"
+      },
+      "Mummy Curse": {
+        "type": 1,
+        "weight": 35,
+        "attack": 27,
+        "defense": 55,
+        "stamina": 18,
+        "image": "assets/images/blades/mummy_curse.png"
+      },
+      "Dranzer Spiral": {
+        "type": 3,
+        "weight": 35,
+        "attack": 35,
+        "defense": 30,
+        "stamina": 35,
+        "image": "assets/images/blades/dranzer_spiral.png"
+      },
+      "Driger Slash": {
+        "type": 3,
+        "weight": 35,
+        "attack": 40,
+        "defense": 35,
+        "stamina": 25,
+        "image": "assets/images/blades/driger_slash.png"
+      },
+      "Phoenix Feather": {
+        "type": 1,
+        "weight": 35,
+        "attack": 60,
+        "defense": 25,
+        "stamina": 15,
+        "image": "assets/images/blades/phoenix_feather.png"
+      },
+      "Optimus Primal": {
+        "type": "Attack",
+        "weight": 35,
+        "attack": 60,
+        "defense": 27,
+        "stamina": 13,
+        "image": "assets/images/blades/optimus_primal.png"
+      },
+      "Optimus Prime": {
+        "type": 3,
+        "weight": 35,
+        "attack": 22,
+        "defense": 55,
+        "stamina": 23,
+        "image": "assets/images/blades/optimus_prime.png"
+      },
+      "Phoenix Rudder": {
+        "type": 2,
+        "weight": 35,
+        "attack": 10,
+        "defense": 35,
+        "stamina": 55,
+        "image": "assets/images/blades/phoenix_rudder.png"
+      },
+      "Shark Scale": {
+        "type": "Attack",
+        "weight": 35,
+        "attack": 70,
+        "defense": 15,
+        "stamina": 15,
+        "image": "assets/images/blades/shark_scale.png"
+      },
+      "Scorpio Spear": {
+        "type": 3,
+        "weight": 35,
+        "attack": 23,
+        "defense": 50,
+        "stamina": 27,
+        "image": "assets/images/blades/scorpio_spear.png"
+      },
+      "Spinosaurus": {
+        "type": "Attack",
+        "weight": 35,
+        "attack": 60,
+        "defense": 28,
+        "stamina": 12,
+        "image": "assets/images/blades/spinosaurus.png"
+      },
+      "Thanos": {
+        "type": 3,
+        "weight": 35,
+        "attack": 22,
+        "defense": 60,
+        "stamina": 18,
+        "image": "assets/images/blades/thanos.png"
+      },
+      "Bumblebee": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/bumblebee.png"
+      },
+      "Captain America": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/captain_america.png"
+      },
+      "General Grievous": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/general_grievous.png"
+      },
+      "Green Goblin": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/green_goblin.png"
+      },
+      "Kong Yell": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/yell_kong.png"
+      },
+      "Meteor Dragoon": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/meteor_dragoon.png"
+      },
+      "Miles Morales": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/miles_morales.png"
+      },
+      "Red Hulk": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/red_hulk.png"
+      },
+      "Shockwave": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/shockwave.png"
+      },
+      "Stormtrooper": {
+        "type": 3,
+        "weight": 35,
+        "attack": 30,
+        "defense": 30,
+        "stamina": 30,
+        "image": "assets/images/blades/stormtrooper.png"
+      },
+      "Dragoon Storm": {
+        "type": "Attack",
+        "attack": 55,
+        "defense": 30,
+        "stamina": 15,
+        "image": "assets/images/blades/dragoonstorm.webp",
+        "weight": 25.1
+      },
+      "Obi-Wan Kenobi": {
+        "type": "Defense",
+        "attack": 23,
+        "defense": 60,
+        "stamina": 17,
+        "image": "assets/images/blades/obi_wan_kenobi.webp",
+        "weight": 30.6
+      },
+      "Storm Pegasis": {
+        "type": "Attack",
+        "attack": 55,
+        "defense": 15,
+        "stamina": 30,
+        "image": "assets/images/blades/stormpegasis.webp",
+        "weight": 31.0
+      },
+      "T. Rex": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 5,
+        "image": "assets/images/blades/t_rex.webp",
+        "weight": 37.0
+      },
+      "Tricera Spiky": {
+        "type": "Defense",
+        "attack": 32,
+        "defense": 55,
+        "stamina": 13,
+        "image": "assets/images/blades/triceraspiky.webp",
+        "weight": 29.9
+      },
+      "Victory Valkyrie": {
+        "type": "Attack",
+        "attack": 55,
+        "defense": 20,
+        "stamina": 25,
+        "image": "assets/images/blades/victoryvalkyrie.webp",
+        "weight": 33.2
+      },
+      "Dran Strike": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 35,
+        "weight": 35.5,
+        "image": "assets/images/blades/dran_strike.webp"
+      },
+      "Bullet Griffon": {
+        "type": "Attack",
+        "attack": 60,
+        "defense": 35,
+        "stamina": 35,
+        "weight": 36.2,
+        "image": "assets/images/blades/bullet_griffon.webp"
+      },
+      "Glory Valkyrie": {
+        "type": "Attack",
+        "attack": 70,
+        "defense": 20,
+        "stamina": 40,
+        "weight": 37.0,
+        "image": "assets/images/blades/glory_valkyrie.webp"
+      },
+      "Heavens Ring": {
+        "type": "Stamina",
+        "attack": 25,
+        "defense": 45,
+        "stamina": 60,
+        "weight": 34.5,
+        "image": "assets/images/blades/heavens_ring.webp"
+      },
+      "Hells Nether": {
+        "type": "Balance",
+        "attack": 50,
+        "defense": 40,
+        "stamina": 40,
+        "weight": 36.8,
+        "image": "assets/images/blades/hells_nether.webp"
+      },
+      "Luster Dragoon": {
+        "type": "Attack",
+        "attack": 70,
+        "defense": 25,
+        "stamina": 35,
+        "weight": 38.0,
+        "image": "assets/images/blades/luster_dragoon.webp"
+      },
+      "Bison Valor": {
+        "type": "Defense",
+        "attack": 30,
+        "defense": 65,
+        "stamina": 35,
+        "weight": 36.5,
+        "image": "assets/images/blades/bison_valor.webp"
+      },
+      "Rock Leone": {
+        "type": "Defense",
+        "attack": 30,
+        "defense": 60,
+        "stamina": 40,
+        "weight": 34.0,
+        "image": "assets/images/blades/rock_leone.webp"
+      },
+      "Storm Spriggan": {
+        "type": "Balance",
+        "attack": 45,
+        "defense": 45,
+        "stamina": 40,
+        "weight": 34.2,
+        "image": "assets/images/blades/storm_spriggan.webp"
+      },
+      "Xeno Xcalibur": {
+        "type": "Attack",
+        "attack": 75,
+        "defense": 20,
+        "stamina": 35,
+        "weight": 36.5,
+        "image": "assets/images/blades/xeno_xcalibur.webp"
+      },
+      "Lightning L-Drago (Upper Type)": {
+        "type": "Attack",
+        "attack": 70,
+        "defense": 25,
+        "stamina": 35,
+        "weight": 35.8,
+        "image": "assets/images/blades/lightning_l_drago_upper_type.webp"
+      },
+      "Lightning L-Drago (Rapid-Hit Type)": {
+        "type": "Attack",
+        "attack": 65,
+        "defense": 30,
+        "stamina": 35,
+        "weight": 35.8,
+        "image": "assets/images/blades/lightning_l_drago_rapid_hit_type.webp"
+      },
+      "Doctor Doom": {
+        "type": "Balance",
+        "attack": 45,
+        "defense": 45,
+        "stamina": 40,
+        "weight": 34.0,
+        "image": "assets/images/blades/doctor_doom.webp"
+      },
+      "Mister Fantastic": {
+        "type": "Stamina",
+        "attack": 30,
+        "defense": 40,
+        "stamina": 60,
+        "weight": 33.5,
+        "image": "assets/images/blades/mister_fantastic.webp"
+      },
+      "Hulk": {
+        "type": "Attack",
+        "attack": 75,
+        "defense": 35,
+        "stamina": 20,
+        "weight": 37.5,
+        "image": "assets/images/blades/hulk.webp"
+      },
+      "Grogu": {
+        "type": "Defense",
+        "attack": 25,
+        "defense": 65,
+        "stamina": 40,
+        "weight": 32.5,
+        "image": "assets/images/blades/grogu.webp"
+      },
+      "Snowtrooper": {
+        "type": "Stamina",
+        "attack": 30,
+        "defense": 45,
+        "stamina": 55,
+        "weight": 33.0,
+        "image": "assets/images/blades/snowtrooper.webp"
+      }
+    },
+    "ratchets": {
+      "Operate (O)": {
+        "attack": 45,
+        "defense": 40,
+        "stamina": 35,
+        "height": 0,
+        "image": "assets/images/ratchets/operate.webp",
+        "weight": 14.5,
+        "is_fusion": true,
+        "dash": 35,
+        "burst": 60
+      },
+      "Turbo (T)": {
+        "attack": 42,
+        "defense": 30,
+        "stamina": 35,
+        "height": 0,
+        "image": "assets/images/ratchets/turbo.webp",
+        "weight": 13.7,
+        "is_fusion": true,
+        "dash": 35,
+        "burst": 60
+      },
+      "0-60": {
+        "attack": 3,
+        "defense": 14,
+        "stamina": 13,
+        "height": 6,
+        "image": "assets/images/ratchets/060.webp",
+        "weight": 6.8
+      },
+      "0-70": {
+        "attack": 3,
+        "defense": 13,
+        "stamina": 14,
+        "height": 7,
+        "image": "assets/images/ratchets/070.webp",
+        "weight": 7.0
+      },
+      "0-80": {
+        "attack": 3,
+        "defense": 12,
+        "stamina": 15,
+        "height": 8,
+        "image": "assets/images/ratchets/080.webp",
+        "weight": 7.6
+      },
+      "1-60": {
+        "attack": 17,
+        "defense": 9,
+        "stamina": 4,
+        "height": 6,
+        "image": "assets/images/ratchets/160.webp",
+        "weight": 6.0
+      },
+      "1-70": {
+        "attack": 17,
+        "defense": 6,
+        "stamina": 7,
+        "height": 7,
+        "image": "assets/images/ratchets/170.webp",
+        "weight": 6.1
+      },
+      "1-80": {
+        "attack": 17,
+        "defense": 4,
+        "stamina": 9,
+        "height": 8,
+        "image": "assets/images/ratchets/180.webp",
+        "weight": 6.7
+      },
+      "2-60": {
+        "attack": 16,
+        "defense": 8,
+        "stamina": 6,
+        "height": 6,
+        "image": "assets/images/ratchets/260.webp",
+        "weight": 6.2
+      },
+      "2-70": {
+        "attack": 10,
+        "defense": 12,
+        "stamina": 8,
+        "height": 7,
+        "image": "assets/images/ratchets/270.webp",
+        "weight": 6.4
+      },
+      "2-80": {
+        "attack": 10,
+        "defense": 11,
+        "stamina": 9,
+        "height": 8,
+        "image": "assets/images/ratchets/280.webp",
+        "weight": 6.9
+      },
+      "3-60": {
+        "attack": 15,
+        "defense": 9,
+        "stamina": 6,
+        "height": 6,
+        "image": "assets/images/ratchets/360.webp",
+        "weight": 6.4
+      },
+      "3-70": {
+        "attack": 15,
+        "defense": 8,
+        "stamina": 7,
+        "height": 7,
+        "image": "assets/images/ratchets/370.webp",
+        "weight": 6.4
+      },
+      "3-80": {
+        "attack": 15,
+        "defense": 7,
+        "stamina": 8,
+        "height": 8,
+        "image": "assets/images/ratchets/380.webp",
+        "weight": 7.1
+      },
+      "3-85": {
+        "attack": 5,
+        "defense": 15,
+        "stamina": 10,
+        "height": 8.5,
+        "image": "assets/images/ratchets/385.webp",
+        "weight": 4.7
+      },
+      "4-50": {
+        "attack": 12,
+        "defense": 13,
+        "stamina": 5,
+        "height": 5,
+        "image": "assets/images/ratchets/450.webp",
+        "weight": 5.9
+      },
+      "4-55": {
+        "attack": 7,
+        "defense": 11,
+        "stamina": 12,
+        "height": 5.5,
+        "image": "assets/images/ratchets/455.webp",
+        "weight": 4.8
+      },
+      "4-60": {
+        "attack": 11,
+        "defense": 13,
+        "stamina": 6,
+        "height": 6,
+        "image": "assets/images/ratchets/460.webp",
+        "weight": 6.3
+      },
+      "4-70": {
+        "attack": 11,
+        "defense": 12,
+        "stamina": 7,
+        "height": 7,
+        "image": "assets/images/ratchets/470.webp",
+        "weight": 6.4
+      },
+      "4-80": {
+        "attack": 11,
+        "defense": 11,
+        "stamina": 8,
+        "height": 8,
+        "image": "assets/images/ratchets/480.webp",
+        "weight": 7.0
+      },
+      "5-60": {
+        "attack": 12,
+        "defense": 9,
+        "stamina": 9,
+        "height": 6,
+        "image": "assets/images/ratchets/560.webp",
+        "weight": 6.6
+      },
+      "5-70": {
+        "attack": 12,
+        "defense": 8,
+        "stamina": 9,
+        "height": 7,
+        "image": "assets/images/ratchets/570.webp",
+        "weight": 6.7
+      },
+      "5-80": {
+        "attack": 12,
+        "defense": 8,
+        "stamina": 10,
+        "height": 8,
+        "image": "assets/images/ratchets/580.webp",
+        "weight": 7.3
+      },
+      "6-60": {
+        "attack": 14,
+        "defense": 8,
+        "stamina": 8,
+        "height": 6,
+        "image": "assets/images/ratchets/660.webp",
+        "weight": 6.1
+      },
+      "6-70": {
+        "attack": 14,
+        "defense": 7,
+        "stamina": 9,
+        "height": 7,
+        "image": "assets/images/ratchets/670.webp",
+        "weight": 6.3
+      },
+      "6-80": {
+        "attack": 14,
+        "defense": 6,
+        "stamina": 10,
+        "height": 8,
+        "image": "assets/images/ratchets/680.webp",
+        "weight": 6.9
+      },
+      "7-55": {
+        "attack": 6,
+        "defense": 14,
+        "stamina": 10,
+        "height": 5.5,
+        "image": "assets/images/ratchets/755.webp",
+        "weight": 7.0
+      },
+      "7-60": {
+        "attack": 8,
+        "defense": 14,
+        "stamina": 8,
+        "height": 6,
+        "image": "assets/images/ratchets/760.webp",
+        "weight": 7.1
+      },
+      "7-70": {
+        "attack": 8,
+        "defense": 12,
+        "stamina": 10,
+        "height": 7,
+        "image": "assets/images/ratchets/770.webp",
+        "weight": 7.3
+      },
+      "7-80": {
+        "attack": 7,
+        "defense": 14,
+        "stamina": 9,
+        "height": 8,
+        "image": "assets/images/ratchets/780.webp",
+        "weight": 7.8
+      },
+      "9-60": {
+        "attack": 13,
+        "defense": 10,
+        "stamina": 7,
+        "height": 6,
+        "image": "assets/images/ratchets/960.webp",
+        "weight": 6.2
+      },
+      "9-65": {
+        "attack": 13,
+        "defense": 10,
+        "stamina": 7,
+        "height": 6.5,
+        "image": "assets/images/ratchets/965.webp",
+        "weight": 4.4
+      },
+      "9-70": {
+        "attack": 13,
+        "defense": 10,
+        "stamina": 7,
+        "height": 7,
+        "image": "assets/images/ratchets/970.webp",
+        "weight": 6.3
+      },
+      "9-80": {
+        "attack": 13,
+        "defense": 10,
+        "stamina": 7,
+        "height": 8,
+        "image": "assets/images/ratchets/980.webp",
+        "weight": 6.9
+      },
+      "M-85": {
+        "attack": 8,
+        "defense": 19,
+        "stamina": 13,
+        "height": 8.5,
+        "image": "assets/images/ratchets/m85.webp",
+        "weight": 10.6
+      },
+      "1-50": {
+        "attack": 18,
+        "defense": 9,
+        "stamina": 3,
+        "height": 0,
+        "image": "assets/images/ratchets/150.webp",
+        "weight": 5.9
+      },
+      "8-70": {
+        "attack": 8,
+        "defense": 10,
+        "stamina": 12,
+        "height": 0,
+        "image": "assets/images/ratchets/870.webp",
+        "weight": 7.9
+      },
+      "5-50": {
+        "attack": 12,
+        "defense": 10,
+        "stamina": 8,
+        "height": 5.0,
+        "weight": 6.2,
+        "image": "assets/images/ratchets/550.webp"
+      },
+      "8-80": {
+        "attack": 15,
+        "defense": 12,
+        "stamina": 7,
+        "height": 8.0,
+        "weight": 7.4,
+        "image": "assets/images/ratchets/880.webp"
+      }
+    },
+    "bits": {
+      "Accel": {
+        "type": "Attack",
+        "code": "A",
+        "attack": 40,
+        "defense": 10,
+        "stamina": 10,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/a_accel.webp",
+        "weight": 2.6
+      },
+      "Ball": {
+        "type": "Stamina",
+        "code": "B",
+        "attack": 15,
+        "defense": 25,
+        "stamina": 50,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/b_ball.webp",
+        "weight": 2.1
+      },
+      "Bound Spike": {
+        "type": "Defense",
+        "code": "BS",
+        "attack": 5,
+        "defense": 60,
+        "stamina": 30,
+        "dash": 5,
+        "burst": 30,
+        "image": "assets/images/bits/bs_bound_spike.webp",
+        "weight": 2.0
+      },
+      "Cyclone": {
+        "type": "Attack",
+        "code": "C",
+        "attack": 40,
+        "defense": 5,
+        "stamina": 10,
+        "dash": 45,
+        "burst": 80,
+        "image": "assets/images/bits/c_cyclone.webp",
+        "weight": 2.1
+      },
+      "Dot": {
+        "type": "Defense",
+        "code": "D",
+        "attack": 10,
+        "defense": 55,
+        "stamina": 25,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/d_dot.webp",
+        "weight": 2.0
+      },
+      "Disc Ball": {
+        "type": "Stamina",
+        "code": "DB",
+        "attack": 15,
+        "defense": 20,
+        "stamina": 55,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/db_disc_ball.webp",
+        "weight": 3.2
+      },
+      "Elevate": {
+        "type": "Balance",
+        "code": "E",
+        "attack": 30,
+        "defense": 15,
+        "stamina": 20,
+        "dash": 35,
+        "burst": 30,
+        "image": "assets/images/bits/e_elevate.webp",
+        "weight": 3.2
+      },
+      "Flat": {
+        "type": "Attack",
+        "code": "F",
+        "attack": 40,
+        "defense": 15,
+        "stamina": 10,
+        "dash": 35,
+        "burst": 80,
+        "image": "assets/images/bits/f_flat.webp",
+        "weight": 2.2
+      },
+      "Free Ball": {
+        "type": "Stamina",
+        "code": "FB",
+        "attack": 10,
+        "defense": 25,
+        "stamina": 60,
+        "dash": 5,
+        "burst": 30,
+        "image": "assets/images/bits/fb_free_ball.webp",
+        "weight": 1.9
+      },
+      "Glide": {
+        "type": "Stamina",
+        "code": "G",
+        "attack": 20,
+        "defense": 10,
+        "stamina": 55,
+        "dash": 15,
+        "burst": 30,
+        "image": "assets/images/bits/g_glide.webp",
+        "weight": 2.5
+      },
+      "Gear Ball": {
+        "type": "Stamina",
+        "code": "GB",
+        "attack": 10,
+        "defense": 15,
+        "stamina": 45,
+        "dash": 30,
+        "burst": 30,
+        "image": "assets/images/bits/gb_gear_ball.webp",
+        "weight": 2.0
+      },
+      "Gear Flat": {
+        "type": "Attack",
+        "code": "GF",
+        "attack": 50,
+        "defense": 5,
+        "stamina": 5,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/gf_gear_flat.webp",
+        "weight": 2.3
+      },
+      "Gear Needle": {
+        "type": "Defense",
+        "code": "GN",
+        "attack": 20,
+        "defense": 40,
+        "stamina": 10,
+        "dash": 30,
+        "burst": 30,
+        "image": "assets/images/bits/gn_gear_needle.webp",
+        "weight": 2.0
+      },
+      "Gear Point": {
+        "type": "Balance",
+        "code": "GP",
+        "attack": 30,
+        "defense": 25,
+        "stamina": 15,
+        "dash": 30,
+        "burst": 80,
+        "image": "assets/images/bits/gp_gear_point.webp",
+        "weight": 2.3
+      },
+      "Gear Rush": {
+        "type": "Attack",
+        "code": "GR",
+        "attack": 45,
+        "defense": 10,
+        "stamina": 10,
+        "dash": 35,
+        "burst": 80,
+        "image": "assets/images/bits/gr_gear_rush.webp",
+        "weight": 2.1
+      },
+      "Hexa": {
+        "type": "Balance",
+        "code": "H",
+        "attack": 30,
+        "defense": 35,
+        "stamina": 20,
+        "dash": 15,
+        "burst": 80,
+        "image": "assets/images/bits/h_hexa.webp",
+        "weight": 2.6
+      },
+      "High Needle": {
+        "type": "Defense",
+        "code": "HN",
+        "attack": 15,
+        "defense": 55,
+        "stamina": 20,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/hn_high_needle.webp",
+        "weight": 2.2
+      },
+      "High Taper": {
+        "type": "Balance",
+        "code": "HT",
+        "attack": 30,
+        "defense": 25,
+        "stamina": 20,
+        "dash": 25,
+        "burst": 80,
+        "image": "assets/images/bits/ht_high_taper.webp",
+        "weight": 2.2
+      },
+      "Kick": {
+        "type": "Balance",
+        "code": "K",
+        "attack": 35,
+        "defense": 25,
+        "stamina": 15,
+        "dash": 25,
+        "burst": 80,
+        "image": "assets/images/bits/k_kick.webp",
+        "weight": 2.2
+      },
+      "Level": {
+        "type": "Attack",
+        "code": "L",
+        "attack": 40,
+        "defense": 5,
+        "stamina": 15,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/l_level.webp",
+        "weight": 2.7
+      },
+      "Low Flat": {
+        "type": "Attack",
+        "code": "LF",
+        "attack": 45,
+        "defense": 5,
+        "stamina": 10,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/lf_low_flat.webp",
+        "weight": 2.1
+      },
+      "Low Orb": {
+        "type": "Stamina",
+        "code": "LO",
+        "attack": 5,
+        "defense": 25,
+        "stamina": 55,
+        "dash": 15,
+        "burst": 30,
+        "image": "assets/images/bits/lo_low_orb.webp",
+        "weight": 2.2
+      },
+      "Low Rush": {
+        "type": "Attack",
+        "code": "LR",
+        "attack": 45,
+        "defense": 5,
+        "stamina": 15,
+        "dash": 35,
+        "burst": 80,
+        "image": "assets/images/bits/lr_low_rush.webp",
+        "weight": 1.9
+      },
+      "Merge": {
+        "type": "Balance",
+        "code": "M",
+        "attack": 50,
+        "defense": 20,
+        "stamina": 10,
+        "dash": 20,
+        "burst": 80,
+        "image": "assets/images/bits/m_merge.webp",
+        "weight": 3.4
+      },
+      "Metal Needle": {
+        "type": "Defense",
+        "code": "MN",
+        "attack": 8,
+        "defense": 57,
+        "stamina": 30,
+        "dash": 5,
+        "burst": 30,
+        "image": "assets/images/bits/mn_metal_needle.webp",
+        "weight": 2.8
+      },
+      "Needle": {
+        "type": "Defense",
+        "code": "N",
+        "attack": 10,
+        "defense": 50,
+        "stamina": 30,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/n_needle.webp",
+        "weight": 2.0
+      },
+      "Orb": {
+        "type": "Stamina",
+        "code": "O",
+        "attack": 10,
+        "defense": 30,
+        "stamina": 50,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/o_orb.webp",
+        "weight": 2.0
+      },
+      "Point": {
+        "type": "Balance",
+        "code": "P",
+        "attack": 25,
+        "defense": 25,
+        "stamina": 25,
+        "dash": 25,
+        "burst": 80,
+        "image": "assets/images/bits/p_point.webp",
+        "weight": 2.2
+      },
+      "Quake": {
+        "type": "Attack",
+        "code": "Q",
+        "attack": 55,
+        "defense": 15,
+        "stamina": 5,
+        "dash": 25,
+        "burst": 80,
+        "image": "assets/images/bits/q_quake.webp",
+        "weight": 2.2
+      },
+      "Rush": {
+        "type": "Attack",
+        "code": "R",
+        "attack": 40,
+        "defense": 10,
+        "stamina": 20,
+        "dash": 30,
+        "burst": 80,
+        "image": "assets/images/bits/r_rush.webp",
+        "weight": 2.1
+      },
+      "Rubber Accel": {
+        "type": "Attack",
+        "code": "RA",
+        "attack": 60,
+        "defense": 17,
+        "stamina": 3,
+        "dash": 20,
+        "burst": 80,
+        "image": "assets/images/bits/ra_rubber_accel.webp",
+        "weight": 3.1
+      },
+      "Spike": {
+        "type": "Defense",
+        "code": "S",
+        "attack": 10,
+        "defense": 45,
+        "stamina": 35,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/s_spike.webp",
+        "weight": 2.0
+      },
+      "Taper": {
+        "type": "Balance",
+        "code": "T",
+        "attack": 35,
+        "defense": 20,
+        "stamina": 20,
+        "dash": 25,
+        "burst": 80,
+        "image": "assets/images/bits/t_taper.webp",
+        "weight": 2.2
+      },
+      "Trans Kick": {
+        "type": "Balance",
+        "code": "TK",
+        "attack": 35,
+        "defense": 30,
+        "stamina": 20,
+        "dash": 15,
+        "burst": 80,
+        "image": "assets/images/bits/tk_trans_kick.webp",
+        "weight": 2.3
+      },
+      "Trans Point": {
+        "type": "Balance",
+        "code": "TP",
+        "attack": 35,
+        "defense": 25,
+        "stamina": 25,
+        "dash": 15,
+        "burst": 80,
+        "image": "assets/images/bits/tp_trans_point.webp",
+        "weight": 2.2
+      },
+      "Unite": {
+        "type": "Balance",
+        "code": "U",
+        "attack": 25,
+        "defense": 25,
+        "stamina": 30,
+        "dash": 20,
+        "burst": 80,
+        "image": "assets/images/bits/u_unite.webp",
+        "weight": 2.1
+      },
+      "Under Flat": {
+        "type": "Attack",
+        "code": "UF",
+        "attack": 55,
+        "defense": 5,
+        "stamina": 5,
+        "dash": 35,
+        "burst": 80,
+        "image": "assets/images/bits/uf_under_flat.webp",
+        "weight": 2.0
+      },
+      "Under Needle": {
+        "type": "Defense",
+        "code": "UN",
+        "attack": 10,
+        "defense": 60,
+        "stamina": 20,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/un_under_needle.webp",
+        "weight": 1.9
+      },
+      "Vortex": {
+        "type": "Attack",
+        "code": "V",
+        "attack": 45,
+        "defense": 10,
+        "stamina": 5,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/v_vortex.webp",
+        "weight": 2.2
+      },
+      "Wedge": {
+        "type": "Defense",
+        "code": "W",
+        "attack": 5,
+        "defense": 55,
+        "stamina": 30,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/w_wedge.webp",
+        "weight": 2.2
+      },
+      "Wall Ball": {
+        "type": "Stamina",
+        "code": "WB",
+        "attack": 15,
+        "defense": 30,
+        "stamina": 45,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/wb_wall_ball.webp",
+        "weight": 2.1
+      },
+      "Zap": {
+        "type": "Balance",
+        "code": "Z",
+        "attack": 30,
+        "defense": 20,
+        "stamina": 15,
+        "dash": 35,
+        "burst": 80,
+        "image": "assets/images/bits/z_zap.webp",
+        "weight": 2.5
+      },
+      "Ignition": {
+        "type": "Balance",
+        "code": "I",
+        "attack": 50,
+        "defense": 15,
+        "stamina": 5,
+        "dash": 30,
+        "burst": 80,
+        "image": "assets/images/bits/i_ignition.webp",
+        "weight": 2.4
+      },
+      "Jolt": {
+        "type": "Balance",
+        "code": "J",
+        "attack": 35,
+        "defense": 10,
+        "stamina": 15,
+        "dash": 40,
+        "burst": 80,
+        "image": "assets/images/bits/j_jolt.webp",
+        "weight": 2.6
+      },
+      "Wall Wedge": {
+        "type": "Balance",
+        "code": "WW",
+        "attack": 5,
+        "defense": 60,
+        "stamina": 25,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/ww_wall_wedge.webp",
+        "weight": 2.1
+      },
+      "Yielding": {
+        "type": "Balance",
+        "code": "Y",
+        "attack": 10,
+        "defense": 15,
+        "stamina": 65,
+        "dash": 10,
+        "burst": 30,
+        "image": "assets/images/bits/y_yielding.webp",
+        "weight": 4.3
+      },
+      "Gear Unite": {
+        "type": "Balance",
+        "code": "GU",
+        "attack": 35,
+        "defense": 25,
+        "stamina": 25,
+        "dash": 35,
+        "burst": 50,
+        "weight": 2.5,
+        "image": "assets/images/bits/gu_gear_unite.webp"
+      },
+      "Low Cyclone": {
+        "type": "Stamina",
+        "code": "LC",
+        "attack": 15,
+        "defense": 20,
+        "stamina": 55,
+        "dash": 20,
+        "burst": 30,
+        "weight": 2.3,
+        "image": "assets/images/bits/lc_low_cyclone.webp"
+      },
+      "Low Point": {
+        "type": "Balance",
+        "code": "LP",
+        "attack": 30,
+        "defense": 25,
+        "stamina": 35,
+        "dash": 25,
+        "burst": 40,
+        "weight": 2.4,
+        "image": "assets/images/bits/lp_low_point.webp"
+      },
+      "Narrow": {
+        "type": "Defense",
+        "code": "Nr",
+        "attack": 10,
+        "defense": 65,
+        "stamina": 30,
+        "dash": 10,
+        "burst": 30,
+        "weight": 2.2,
+        "image": "assets/images/bits/nr_narrow.webp"
+      },
+      "Disk Spike": {
+        "type": "Defense",
+        "code": "DS",
+        "attack": 10,
+        "defense": 65,
+        "stamina": 25,
+        "dash": 15,
+        "burst": 35,
+        "weight": 2.6,
+        "image": "assets/images/bits/ds_disk_spike.webp"
+      },
+      "Free Flat": {
+        "type": "Attack",
+        "code": "FF",
+        "attack": 60,
+        "defense": 15,
+        "stamina": 25,
+        "dash": 40,
+        "burst": 40,
+        "weight": 2.4,
+        "image": "assets/images/bits/ff_free_flat.webp"
+      }
+    },
+    "assist_blades": {
+      "Assault": {
+        "type": "Attack",
+        "code": "A",
+        "attack": 25,
+        "defense": 10,
+        "stamina": 5,
+        "image": "assets/images/assist_blades/a_assault.webp",
+        "weight": 5.0
+      },
+      "Bumper": {
+        "type": "Defense",
+        "code": "B",
+        "attack": 10,
+        "defense": 20,
+        "stamina": 10,
+        "image": "assets/images/assist_blades/b_bumper.webp",
+        "weight": 5.3
+      },
+      "Charge": {
+        "type": "Defense",
+        "code": "C",
+        "attack": 15,
+        "defense": 20,
+        "stamina": 5,
+        "image": "assets/images/assist_blades/c_charge.webp",
+        "weight": 5.0
+      },
+      "Dual": {
+        "type": "Balance",
+        "code": "D",
+        "attack": 10,
+        "defense": 20,
+        "stamina": 10,
+        "image": "assets/images/assist_blades/d_dual.webp",
+        "weight": 5.9
+      },
+      "Free": {
+        "type": "Stamina",
+        "code": "F",
+        "attack": 5,
+        "defense": 20,
+        "stamina": 25,
+        "image": "assets/images/assist_blades/f_free.webp",
+        "weight": 5.8
+      },
+      "Heavy": {
+        "type": "Balance",
+        "code": "H",
+        "attack": 17,
+        "defense": 17,
+        "stamina": 11,
+        "image": "assets/images/assist_blades/h_heavy.webp",
+        "weight": 7.8
+      },
+      "Jaggy": {
+        "type": "Attack",
+        "code": "J",
+        "attack": 20,
+        "defense": 15,
+        "stamina": 5,
+        "image": "assets/images/assist_blades/j_jaggy.webp",
+        "weight": 4.9
+      },
+      "Massive": {
+        "type": "Balance",
+        "code": "M",
+        "attack": 15,
+        "defense": 15,
+        "stamina": 10,
+        "image": "assets/images/assist_blades/m_massive.webp",
+        "weight": 5.1
+      },
+      "Round": {
+        "type": "Stamina",
+        "code": "R",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 20,
+        "image": "assets/images/assist_blades/r_round.webp",
+        "weight": 4.7
+      },
+      "Slash": {
+        "type": "Attack",
+        "code": "S",
+        "attack": 10,
+        "defense": 20,
+        "stamina": 10,
+        "image": "assets/images/assist_blades/s_slash.webp",
+        "weight": 4.7
+      },
+      "Turn": {
+        "type": "Balance",
+        "code": "T",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 20,
+        "image": "assets/images/assist_blades/t_turn.webp",
+        "weight": 5.8
+      },
+      "Wheel": {
+        "type": "Stamina",
+        "code": "W",
+        "attack": 10,
+        "defense": 15,
+        "stamina": 25,
+        "weight": 5.1,
+        "image": "assets/images/assist_blades/w_wheel.webp"
+      },
+      "Erase": {
+        "type": "Stamina",
+        "code": "E",
+        "attack": 10,
+        "defense": 5,
+        "stamina": 25,
+        "image": "assets/images/assist_blades/e_erase.webp",
+        "weight": 6.1
+      },
+      "Knuckle": {
+        "type": "Attack",
+        "code": "K",
+        "attack": 30,
+        "defense": 5,
+        "stamina": 5,
+        "image": "assets/images/assist_blades/k_knuckle.webp",
+        "weight": 4.9
+      },
+      "Vertical": {
+        "type": "Defense",
+        "code": "V",
+        "attack": 10,
+        "defense": 25,
+        "stamina": 5,
+        "image": "assets/images/assist_blades/v_vertical.webp",
+        "weight": 5.4
+      },
+      "Gravity": {
+        "type": "Defense",
+        "code": "G",
+        "attack": 10,
+        "defense": 25,
+        "stamina": 10,
+        "weight": 5.6,
+        "image": "assets/images/assist_blades/g_gravity.webp"
+      },
+      "Odd": {
+        "type": "Balance",
+        "code": "O",
+        "attack": 15,
+        "defense": 15,
+        "stamina": 15,
+        "weight": 5.2,
+        "image": "assets/images/assist_blades/o_odd.webp"
+      },
+      "Quell": {
+        "type": "Defense",
+        "code": "Q",
+        "attack": 10,
+        "defense": 25,
+        "stamina": 12,
+        "weight": 5.4,
+        "image": "assets/images/assist_blades/q_quell.webp"
+      },
+      "Zillion": {
+        "type": "Stamina",
+        "code": "Z",
+        "attack": 10,
+        "defense": 15,
+        "stamina": 25,
+        "weight": 5.3,
+        "image": "assets/images/assist_blades/z_zillion.webp"
+      }
+    },
+    "assists": {},
+    "main_blades": {
+      "Antler": {
+        "type": "Stamina",
+        "attack": 8,
+        "defense": 15,
+        "stamina": 37,
+        "image": "assets/images/blades/antler.webp",
+        "weight": 29.1
+      },
+      "Arc": {
+        "type": "Stamina",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 40,
+        "image": "assets/images/blades/arc.webp",
+        "weight": 29.2
+      },
+      "Blast": {
+        "type": "Attack",
+        "attack": 50,
+        "defense": 10,
+        "stamina": 15,
+        "image": "assets/images/blades/blast.webp",
+        "weight": 32.8
+      },
+      "Brave": {
+        "type": "Attack",
+        "attack": 40,
+        "defense": 10,
+        "stamina": 10,
+        "image": "assets/images/blades/brave.webp",
+        "weight": 31.2
+      },
+      "Brush": {
+        "type": "Attack",
+        "attack": 40,
+        "defense": 15,
+        "stamina": 5,
+        "image": "assets/images/blades/brush.webp",
+        "weight": 30.3
+      },
+      "Dark": {
+        "type": "Defense",
+        "attack": 10,
+        "defense": 40,
+        "stamina": 10,
+        "image": "assets/images/blades/dark.webp",
+        "weight": 30.3
+      },
+      "Eclipse": {
+        "type": "Balance",
+        "attack": 40,
+        "defense": 40,
+        "stamina": 20,
+        "image": "assets/images/blades/eclipse.webp",
+        "weight": 32.3
+      },
+      "Fang": {
+        "type": "Attack",
+        "attack": 35,
+        "defense": 10,
+        "stamina": 15,
+        "image": "assets/images/blades/fang.webp",
+        "weight": 30.4
+      },
+      "Flame": {
+        "type": "Stamina",
+        "attack": 5,
+        "defense": 15,
+        "stamina": 40,
+        "image": "assets/images/blades/flame.webp",
+        "weight": 28.5
+      },
+      "Flare": {
+        "type": "Defense",
+        "attack": 47,
+        "defense": 55,
+        "stamina": 13,
+        "image": "assets/images/blades/flare.webp",
+        "weight": 31.1
+      },
+      "Fort": {
+        "type": "Balance",
+        "attack": 24,
+        "defense": 12,
+        "stamina": 24,
+        "image": "assets/images/blades/fort.webp",
+        "weight": 29.0
+      },
+      "Hunt": {
+        "type": "Stamina",
+        "attack": 20,
+        "defense": 10,
+        "stamina": 30,
+        "image": "assets/images/blades/hunt.webp",
+        "weight": 31.6
+      },
+      "Might": {
+        "type": "Balance",
+        "attack": 25,
+        "defense": 25,
+        "stamina": 25,
+        "image": "assets/images/blades/might.webp",
+        "weight": 33.1
+      },
+      "Reaper": {
+        "type": "Balance",
+        "attack": 25,
+        "defense": 10,
+        "stamina": 25,
+        "image": "assets/images/blades/reaper.webp",
+        "weight": 29.0
+      },
+      "Wriggle": {
+        "type": "Stamina",
+        "attack": 18,
+        "defense": 2,
+        "stamina": 40,
+        "image": "assets/images/blades/wriggle.webp",
+        "weight": 29.3
+      },
+      "Volt": {
+        "type": "Attack",
+        "attack": 45,
+        "defense": 15,
+        "stamina": 20,
+        "weight": 30.5,
+        "image": "assets/images/blades/volt.webp"
+      }
+    },
+    "lock_chips": {
+      "Bahamut": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/bahamut.webp"
+      },
+      "Brachio": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/brachio.webp"
+      },
+      "Cerberus": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/cerberus.webp"
+      },
+      "Croco": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/croco.webp"
+      },
+      "Drake": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/drake.webp"
+      },
+      "Dran": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/dran.webp"
+      },
+      "Emperor": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/emperor.webp"
+      },
+      "Eva": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/eva.webp"
+      },
+      "Fox": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/fox.webp"
+      },
+      "Hells": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/hells.webp"
+      },
+      "Hornet": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/hornet.webp"
+      },
+      "Knight": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/knight.webp"
+      },
+      "Kraken": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/kraken.webp"
+      },
+      "Leon": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/leon.webp"
+      },
+      "Pegasus": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/pegasus.webp"
+      },
+      "Perseus": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/perseus.webp"
+      },
+      "Phoenix": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/phoenix.webp"
+      },
+      "Ragna": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/ragna.webp"
+      },
+      "Rhino": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/rhino.webp"
+      },
+      "Sol": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/sol.webp"
+      },
+      "Stag": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/stag.webp"
+      },
+      "Tiga": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/tiga.webp"
+      },
+      "Unicorn": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/unicorn.webp"
+      },
+      "Valkyrie": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/valkyrie.webp"
+      },
+      "Whale": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/whale.webp"
+      },
+      "Wizard": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/wizard.webp"
+      },
+      "Wolf": {
+        "type": "Balance",
+        "attack": 10,
+        "defense": 10,
+        "stamina": 10,
+        "weight": 1.2,
+        "image": "assets/images/lock_chips/wolf.webp"
+      }
+    }
+  }
+}
